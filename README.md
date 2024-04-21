@@ -1,2 +1,1 @@
-# by-forecasting
-Files and code for the BY Forecasting Kaggle competition
+# BlueYonder Hackathon at Pycon/PyData 2024
